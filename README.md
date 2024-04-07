@@ -94,8 +94,8 @@ Contribution
 
 Contributions are welcomed. For improvements or bug fixes, fork the repository, implement changes, and submit a pull request.
 License
+MIT License
 
-[Specify the license, e.g., MIT, GPL.]
 Disclaimer
 
 R.A.V.E.N is developed for educational and ethical testing purposes. The developers are not liable for misuse or damages
