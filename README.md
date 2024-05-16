@@ -35,7 +35,7 @@ To enable CVE search functionality, follow these steps to download CVE data and 
     Database Setup: Create RAVEN_CVE_Vuln.db using SQLite3 and define a table structure suitable for storing CVE information.
     Populate Database: Develop a script or manually input the CVE data into the database, ensuring each entry includes a CVE ID, description, and CVSS score.
     OR 
-    Use the attached ravencvedb.py program to create the one designed to work for R.A.V.E.N.
+    Use the attached ~~ravencvedb.py~~ program to create the one designed to work for R.A.V.E.N.
 
 Making R.A.V.E.N Accessible in Bash
 
